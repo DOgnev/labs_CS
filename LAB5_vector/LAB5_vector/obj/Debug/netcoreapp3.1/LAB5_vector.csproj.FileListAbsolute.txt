@@ -1,0 +1,11 @@
+C:\Users\DaoOs\Desktop\CS labs\labs_CS\LAB5_vector\LAB5_vector\obj\Debug\netcoreapp3.1\LAB5_vector.csprojAssemblyReference.cache
+C:\Users\DaoOs\Desktop\CS labs\labs_CS\LAB5_vector\LAB5_vector\obj\Debug\netcoreapp3.1\LAB5_vector.AssemblyInfoInputs.cache
+C:\Users\DaoOs\Desktop\CS labs\labs_CS\LAB5_vector\LAB5_vector\obj\Debug\netcoreapp3.1\LAB5_vector.AssemblyInfo.cs
+C:\Users\DaoOs\Desktop\CS labs\labs_CS\LAB5_vector\LAB5_vector\bin\Debug\netcoreapp3.1\LAB5_vector.exe
+C:\Users\DaoOs\Desktop\CS labs\labs_CS\LAB5_vector\LAB5_vector\bin\Debug\netcoreapp3.1\LAB5_vector.deps.json
+C:\Users\DaoOs\Desktop\CS labs\labs_CS\LAB5_vector\LAB5_vector\bin\Debug\netcoreapp3.1\LAB5_vector.runtimeconfig.json
+C:\Users\DaoOs\Desktop\CS labs\labs_CS\LAB5_vector\LAB5_vector\bin\Debug\netcoreapp3.1\LAB5_vector.runtimeconfig.dev.json
+C:\Users\DaoOs\Desktop\CS labs\labs_CS\LAB5_vector\LAB5_vector\bin\Debug\netcoreapp3.1\LAB5_vector.dll
+C:\Users\DaoOs\Desktop\CS labs\labs_CS\LAB5_vector\LAB5_vector\bin\Debug\netcoreapp3.1\LAB5_vector.pdb
+C:\Users\DaoOs\Desktop\CS labs\labs_CS\LAB5_vector\LAB5_vector\obj\Debug\netcoreapp3.1\LAB5_vector.dll
+C:\Users\DaoOs\Desktop\CS labs\labs_CS\LAB5_vector\LAB5_vector\obj\Debug\netcoreapp3.1\LAB5_vector.pdb

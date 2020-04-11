@@ -1,0 +1,11 @@
+C:\Users\DaoOs\Desktop\CS labs\labs_CS\LAB4__StaticFunction\LAB4_StaticFunction\obj\Debug\netcoreapp3.1\LAB4_StaticFunction.csprojAssemblyReference.cache
+C:\Users\DaoOs\Desktop\CS labs\labs_CS\LAB4__StaticFunction\LAB4_StaticFunction\obj\Debug\netcoreapp3.1\LAB4_StaticFunction.AssemblyInfoInputs.cache
+C:\Users\DaoOs\Desktop\CS labs\labs_CS\LAB4__StaticFunction\LAB4_StaticFunction\obj\Debug\netcoreapp3.1\LAB4_StaticFunction.AssemblyInfo.cs
+C:\Users\DaoOs\Desktop\CS labs\labs_CS\LAB4__StaticFunction\LAB4_StaticFunction\bin\Debug\netcoreapp3.1\LAB4_StaticFunction.exe
+C:\Users\DaoOs\Desktop\CS labs\labs_CS\LAB4__StaticFunction\LAB4_StaticFunction\bin\Debug\netcoreapp3.1\LAB4_StaticFunction.deps.json
+C:\Users\DaoOs\Desktop\CS labs\labs_CS\LAB4__StaticFunction\LAB4_StaticFunction\bin\Debug\netcoreapp3.1\LAB4_StaticFunction.runtimeconfig.json
+C:\Users\DaoOs\Desktop\CS labs\labs_CS\LAB4__StaticFunction\LAB4_StaticFunction\bin\Debug\netcoreapp3.1\LAB4_StaticFunction.runtimeconfig.dev.json
+C:\Users\DaoOs\Desktop\CS labs\labs_CS\LAB4__StaticFunction\LAB4_StaticFunction\bin\Debug\netcoreapp3.1\LAB4_StaticFunction.dll
+C:\Users\DaoOs\Desktop\CS labs\labs_CS\LAB4__StaticFunction\LAB4_StaticFunction\bin\Debug\netcoreapp3.1\LAB4_StaticFunction.pdb
+C:\Users\DaoOs\Desktop\CS labs\labs_CS\LAB4__StaticFunction\LAB4_StaticFunction\obj\Debug\netcoreapp3.1\LAB4_StaticFunction.dll
+C:\Users\DaoOs\Desktop\CS labs\labs_CS\LAB4__StaticFunction\LAB4_StaticFunction\obj\Debug\netcoreapp3.1\LAB4_StaticFunction.pdb

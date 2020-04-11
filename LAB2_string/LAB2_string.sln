@@ -19,7 +19,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LAB2_case7", "LAB2_case7\LA
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LAB2_case8", "LAB2_case8\LAB2_case8.csproj", "{F28E2E2E-BD93-4250-B285-BBDDC68D1A9F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LAB2_case9", "LAB2_case9\LAB2_case9.csproj", "{925A3B1F-790B-4CCB-8DAD-5E94AEDC9394}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LAB2_case9", "LAB2_case9\LAB2_case9.csproj", "{925A3B1F-790B-4CCB-8DAD-5E94AEDC9394}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

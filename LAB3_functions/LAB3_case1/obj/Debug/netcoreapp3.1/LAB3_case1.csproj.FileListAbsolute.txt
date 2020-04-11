@@ -1,0 +1,11 @@
+C:\Users\DaoOs\Desktop\CS labs\labs_CS\LAB3_functions\LAB3_case1\obj\Debug\netcoreapp3.1\LAB3_case1.csprojAssemblyReference.cache
+C:\Users\DaoOs\Desktop\CS labs\labs_CS\LAB3_functions\LAB3_case1\obj\Debug\netcoreapp3.1\LAB3_case1.AssemblyInfoInputs.cache
+C:\Users\DaoOs\Desktop\CS labs\labs_CS\LAB3_functions\LAB3_case1\obj\Debug\netcoreapp3.1\LAB3_case1.AssemblyInfo.cs
+C:\Users\DaoOs\Desktop\CS labs\labs_CS\LAB3_functions\LAB3_case1\bin\Debug\netcoreapp3.1\LAB3_case1.exe
+C:\Users\DaoOs\Desktop\CS labs\labs_CS\LAB3_functions\LAB3_case1\bin\Debug\netcoreapp3.1\LAB3_case1.deps.json
+C:\Users\DaoOs\Desktop\CS labs\labs_CS\LAB3_functions\LAB3_case1\bin\Debug\netcoreapp3.1\LAB3_case1.runtimeconfig.json
+C:\Users\DaoOs\Desktop\CS labs\labs_CS\LAB3_functions\LAB3_case1\bin\Debug\netcoreapp3.1\LAB3_case1.runtimeconfig.dev.json
+C:\Users\DaoOs\Desktop\CS labs\labs_CS\LAB3_functions\LAB3_case1\bin\Debug\netcoreapp3.1\LAB3_case1.dll
+C:\Users\DaoOs\Desktop\CS labs\labs_CS\LAB3_functions\LAB3_case1\bin\Debug\netcoreapp3.1\LAB3_case1.pdb
+C:\Users\DaoOs\Desktop\CS labs\labs_CS\LAB3_functions\LAB3_case1\obj\Debug\netcoreapp3.1\LAB3_case1.dll
+C:\Users\DaoOs\Desktop\CS labs\labs_CS\LAB3_functions\LAB3_case1\obj\Debug\netcoreapp3.1\LAB3_case1.pdb

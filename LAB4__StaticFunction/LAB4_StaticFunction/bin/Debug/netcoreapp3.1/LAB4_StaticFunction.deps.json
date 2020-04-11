@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "LAB4_StaticFunction/1.0.0": {
+        "runtime": {
+          "LAB4_StaticFunction.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LAB4_StaticFunction/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
