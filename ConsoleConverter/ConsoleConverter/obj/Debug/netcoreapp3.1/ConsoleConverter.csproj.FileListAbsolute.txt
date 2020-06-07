@@ -1,0 +1,11 @@
+C:\Users\DaoOs\Desktop\CS labs\labs_CS\ConsoleConverter\ConsoleConverter\obj\Debug\netcoreapp3.1\ConsoleConverter.csprojAssemblyReference.cache
+C:\Users\DaoOs\Desktop\CS labs\labs_CS\ConsoleConverter\ConsoleConverter\obj\Debug\netcoreapp3.1\ConsoleConverter.AssemblyInfoInputs.cache
+C:\Users\DaoOs\Desktop\CS labs\labs_CS\ConsoleConverter\ConsoleConverter\obj\Debug\netcoreapp3.1\ConsoleConverter.AssemblyInfo.cs
+C:\Users\DaoOs\Desktop\CS labs\labs_CS\ConsoleConverter\ConsoleConverter\bin\Debug\netcoreapp3.1\ConsoleConverter.exe
+C:\Users\DaoOs\Desktop\CS labs\labs_CS\ConsoleConverter\ConsoleConverter\bin\Debug\netcoreapp3.1\ConsoleConverter.deps.json
+C:\Users\DaoOs\Desktop\CS labs\labs_CS\ConsoleConverter\ConsoleConverter\bin\Debug\netcoreapp3.1\ConsoleConverter.runtimeconfig.json
+C:\Users\DaoOs\Desktop\CS labs\labs_CS\ConsoleConverter\ConsoleConverter\bin\Debug\netcoreapp3.1\ConsoleConverter.runtimeconfig.dev.json
+C:\Users\DaoOs\Desktop\CS labs\labs_CS\ConsoleConverter\ConsoleConverter\bin\Debug\netcoreapp3.1\ConsoleConverter.dll
+C:\Users\DaoOs\Desktop\CS labs\labs_CS\ConsoleConverter\ConsoleConverter\bin\Debug\netcoreapp3.1\ConsoleConverter.pdb
+C:\Users\DaoOs\Desktop\CS labs\labs_CS\ConsoleConverter\ConsoleConverter\obj\Debug\netcoreapp3.1\ConsoleConverter.dll
+C:\Users\DaoOs\Desktop\CS labs\labs_CS\ConsoleConverter\ConsoleConverter\obj\Debug\netcoreapp3.1\ConsoleConverter.pdb

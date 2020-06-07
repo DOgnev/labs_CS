@@ -1,0 +1,11 @@
+C:\Users\DaoOs\Desktop\CS labs\labs_CS\LAB6_integer_16\LAB6_integer_16\bin\Debug\netcoreapp3.1\LAB6_Editor.exe
+C:\Users\DaoOs\Desktop\CS labs\labs_CS\LAB6_integer_16\LAB6_integer_16\bin\Debug\netcoreapp3.1\LAB6_Editor.deps.json
+C:\Users\DaoOs\Desktop\CS labs\labs_CS\LAB6_integer_16\LAB6_integer_16\bin\Debug\netcoreapp3.1\LAB6_Editor.runtimeconfig.json
+C:\Users\DaoOs\Desktop\CS labs\labs_CS\LAB6_integer_16\LAB6_integer_16\bin\Debug\netcoreapp3.1\LAB6_Editor.runtimeconfig.dev.json
+C:\Users\DaoOs\Desktop\CS labs\labs_CS\LAB6_integer_16\LAB6_integer_16\bin\Debug\netcoreapp3.1\LAB6_Editor.dll
+C:\Users\DaoOs\Desktop\CS labs\labs_CS\LAB6_integer_16\LAB6_integer_16\bin\Debug\netcoreapp3.1\LAB6_Editor.pdb
+C:\Users\DaoOs\Desktop\CS labs\labs_CS\LAB6_integer_16\LAB6_integer_16\obj\Debug\netcoreapp3.1\LAB6_Editor.csprojAssemblyReference.cache
+C:\Users\DaoOs\Desktop\CS labs\labs_CS\LAB6_integer_16\LAB6_integer_16\obj\Debug\netcoreapp3.1\LAB6_Editor.AssemblyInfoInputs.cache
+C:\Users\DaoOs\Desktop\CS labs\labs_CS\LAB6_integer_16\LAB6_integer_16\obj\Debug\netcoreapp3.1\LAB6_Editor.AssemblyInfo.cs
+C:\Users\DaoOs\Desktop\CS labs\labs_CS\LAB6_integer_16\LAB6_integer_16\obj\Debug\netcoreapp3.1\LAB6_Editor.dll
+C:\Users\DaoOs\Desktop\CS labs\labs_CS\LAB6_integer_16\LAB6_integer_16\obj\Debug\netcoreapp3.1\LAB6_Editor.pdb

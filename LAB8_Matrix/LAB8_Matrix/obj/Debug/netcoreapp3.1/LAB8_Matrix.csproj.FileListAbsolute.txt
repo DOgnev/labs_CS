@@ -1,0 +1,11 @@
+C:\Users\DaoOs\Desktop\CS labs\labs_CS\LAB8_Matrix\LAB8_Matrix\bin\Debug\netcoreapp3.1\LAB8_Matrix.exe
+C:\Users\DaoOs\Desktop\CS labs\labs_CS\LAB8_Matrix\LAB8_Matrix\bin\Debug\netcoreapp3.1\LAB8_Matrix.deps.json
+C:\Users\DaoOs\Desktop\CS labs\labs_CS\LAB8_Matrix\LAB8_Matrix\bin\Debug\netcoreapp3.1\LAB8_Matrix.runtimeconfig.json
+C:\Users\DaoOs\Desktop\CS labs\labs_CS\LAB8_Matrix\LAB8_Matrix\bin\Debug\netcoreapp3.1\LAB8_Matrix.runtimeconfig.dev.json
+C:\Users\DaoOs\Desktop\CS labs\labs_CS\LAB8_Matrix\LAB8_Matrix\bin\Debug\netcoreapp3.1\LAB8_Matrix.dll
+C:\Users\DaoOs\Desktop\CS labs\labs_CS\LAB8_Matrix\LAB8_Matrix\bin\Debug\netcoreapp3.1\LAB8_Matrix.pdb
+C:\Users\DaoOs\Desktop\CS labs\labs_CS\LAB8_Matrix\LAB8_Matrix\obj\Debug\netcoreapp3.1\LAB8_Matrix.csprojAssemblyReference.cache
+C:\Users\DaoOs\Desktop\CS labs\labs_CS\LAB8_Matrix\LAB8_Matrix\obj\Debug\netcoreapp3.1\LAB8_Matrix.AssemblyInfoInputs.cache
+C:\Users\DaoOs\Desktop\CS labs\labs_CS\LAB8_Matrix\LAB8_Matrix\obj\Debug\netcoreapp3.1\LAB8_Matrix.AssemblyInfo.cs
+C:\Users\DaoOs\Desktop\CS labs\labs_CS\LAB8_Matrix\LAB8_Matrix\obj\Debug\netcoreapp3.1\LAB8_Matrix.dll
+C:\Users\DaoOs\Desktop\CS labs\labs_CS\LAB8_Matrix\LAB8_Matrix\obj\Debug\netcoreapp3.1\LAB8_Matrix.pdb

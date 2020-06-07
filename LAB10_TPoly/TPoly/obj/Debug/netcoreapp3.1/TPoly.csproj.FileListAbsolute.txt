@@ -1,0 +1,11 @@
+C:\Users\DaoOs\Desktop\CS labs\labs_CS\LAB10_TPoly\TPoly\bin\Debug\netcoreapp3.1\TPoly.exe
+C:\Users\DaoOs\Desktop\CS labs\labs_CS\LAB10_TPoly\TPoly\bin\Debug\netcoreapp3.1\TPoly.deps.json
+C:\Users\DaoOs\Desktop\CS labs\labs_CS\LAB10_TPoly\TPoly\bin\Debug\netcoreapp3.1\TPoly.runtimeconfig.json
+C:\Users\DaoOs\Desktop\CS labs\labs_CS\LAB10_TPoly\TPoly\bin\Debug\netcoreapp3.1\TPoly.runtimeconfig.dev.json
+C:\Users\DaoOs\Desktop\CS labs\labs_CS\LAB10_TPoly\TPoly\bin\Debug\netcoreapp3.1\TPoly.dll
+C:\Users\DaoOs\Desktop\CS labs\labs_CS\LAB10_TPoly\TPoly\bin\Debug\netcoreapp3.1\TPoly.pdb
+C:\Users\DaoOs\Desktop\CS labs\labs_CS\LAB10_TPoly\TPoly\obj\Debug\netcoreapp3.1\TPoly.csprojAssemblyReference.cache
+C:\Users\DaoOs\Desktop\CS labs\labs_CS\LAB10_TPoly\TPoly\obj\Debug\netcoreapp3.1\TPoly.AssemblyInfoInputs.cache
+C:\Users\DaoOs\Desktop\CS labs\labs_CS\LAB10_TPoly\TPoly\obj\Debug\netcoreapp3.1\TPoly.AssemblyInfo.cs
+C:\Users\DaoOs\Desktop\CS labs\labs_CS\LAB10_TPoly\TPoly\obj\Debug\netcoreapp3.1\TPoly.dll
+C:\Users\DaoOs\Desktop\CS labs\labs_CS\LAB10_TPoly\TPoly\obj\Debug\netcoreapp3.1\TPoly.pdb

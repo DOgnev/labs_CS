@@ -1,0 +1,11 @@
+C:\Users\DaoOs\Desktop\CS labs\labs_CS\LAB7_Frac\LAB7_Frac\obj\Debug\netcoreapp3.1\LAB7_Frac.csprojAssemblyReference.cache
+C:\Users\DaoOs\Desktop\CS labs\labs_CS\LAB7_Frac\LAB7_Frac\obj\Debug\netcoreapp3.1\LAB7_Frac.AssemblyInfoInputs.cache
+C:\Users\DaoOs\Desktop\CS labs\labs_CS\LAB7_Frac\LAB7_Frac\obj\Debug\netcoreapp3.1\LAB7_Frac.AssemblyInfo.cs
+C:\Users\DaoOs\Desktop\CS labs\labs_CS\LAB7_Frac\LAB7_Frac\bin\Debug\netcoreapp3.1\LAB7_Frac.exe
+C:\Users\DaoOs\Desktop\CS labs\labs_CS\LAB7_Frac\LAB7_Frac\bin\Debug\netcoreapp3.1\LAB7_Frac.deps.json
+C:\Users\DaoOs\Desktop\CS labs\labs_CS\LAB7_Frac\LAB7_Frac\bin\Debug\netcoreapp3.1\LAB7_Frac.runtimeconfig.json
+C:\Users\DaoOs\Desktop\CS labs\labs_CS\LAB7_Frac\LAB7_Frac\bin\Debug\netcoreapp3.1\LAB7_Frac.runtimeconfig.dev.json
+C:\Users\DaoOs\Desktop\CS labs\labs_CS\LAB7_Frac\LAB7_Frac\bin\Debug\netcoreapp3.1\LAB7_Frac.dll
+C:\Users\DaoOs\Desktop\CS labs\labs_CS\LAB7_Frac\LAB7_Frac\bin\Debug\netcoreapp3.1\LAB7_Frac.pdb
+C:\Users\DaoOs\Desktop\CS labs\labs_CS\LAB7_Frac\LAB7_Frac\obj\Debug\netcoreapp3.1\LAB7_Frac.dll
+C:\Users\DaoOs\Desktop\CS labs\labs_CS\LAB7_Frac\LAB7_Frac\obj\Debug\netcoreapp3.1\LAB7_Frac.pdb
