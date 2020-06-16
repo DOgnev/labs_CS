@@ -3,8 +3,10 @@ using System.Text.RegularExpressions;
 
 namespace ConsoleConverter
 {
+    //Определение класса Converter
     class Converter
     {
+        //Раздел описания переменных и структур
         int Base;
         String String_Value;
         Value value = new Value();
@@ -35,23 +37,30 @@ namespace ConsoleConverter
             this.Base = 10;
             this.String_Value = "0";
         }
+        //Определение метода Parser для обработки данных
         public Boolean Parser(String Input)
         {
-            Regex InputRegExp = new Regex("^(?<Base>[1-9]{1,2})[ ](?<IntPart>[0-9ABCDEFabcdef]*)[.,]{0,1}(?<FracPart>[0-9ABCDEFabcdef]*)$");
+            // Определяем регулярное выражение для входной строки данных
+            Regex InputRegExp = new Regex("^(?<Base>[0-9]{1,2})[ ](?<IntPart>[0-9ABCDEFabcdef]*)[.,]{0,1}(?<FracPart>[0-9ABCDEFabcdef]*)$");
             MatchCollection matches = InputRegExp.Matches(Input);
-            if (matches.Count == 0)
+            // Проверка, что мы имеем строго 1 строку в совпадении
+            if (matches.Count == 0 || matches.Count > 1)
             {
                 Console.WriteLine("[MAIN-Parser]: Строка не удовлетворяет заданным требованиям.");
                 return false;
             }
+            // Для каждого совпадения (1 строка) выполняем действия ниже
             foreach (Match match in matches)
             {
+                //Вызываем метод Base_checker для группы Base из строки совпадения (основание)
                 if (!Base_checker(int.Parse(match.Groups["Base"].Value)))
                 {
                     Console.WriteLine("[MAIN-Base_checker]: Основание не соответсвует требованиям");
                     return false;
                 }
+                //Если цикл не упал, то присваиваем переменной Base значение из группы
                 this.Base = int.Parse(match.Groups["Base"].Value);
+                //Проверяем целую часть через метод Value_check
                 if (Value_checker(match.Groups["IntPart"].Value) == -2)
                 {
                     Console.WriteLine("[MAIN-Value_checker]: Неожиданная ошибка");
@@ -62,6 +71,7 @@ namespace ConsoleConverter
                     Console.WriteLine("[MAIN-Value_checker]: Неожиданный символ в позиции: " + Value_checker(match.Groups["IntPart"].Value));
                     return false;
                 }
+                //Проверяем дробную часть через метод Value_check
                 if (Value_checker(match.Groups["FracPart"].Value) == -2)
                 {
                     Console.WriteLine("[MAIN-Value_checker]: Неожиданная ошибка");
@@ -69,9 +79,10 @@ namespace ConsoleConverter
                 }
                 if (Value_checker(match.Groups["FracPart"].Value) != -1 && Value_checker(match.Groups["IntPart"].Value) != -2)
                 {
-                    Console.WriteLine("[MAIN-Value_checker]: Неожиданный символ в позиции: " + (Value_checker(match.Groups["FracPart"].Value)+ match.Groups["IntPart"].Value.Length + 2));
+                    Console.WriteLine("[MAIN-Value_checker]: Неожиданный символ в позиции: " + (Value_checker(match.Groups["FracPart"].Value)+ match.Groups["IntPart"].Value.Length + 1));
                     return false;
                 }
+                //Если целая часть не пустая, то присваиваем её локальной переменной
                 if (!(match.Groups["IntPart"].Length == 0))
                 {
                     this.value.IntPart = match.Groups["IntPart"].Value;
@@ -81,16 +92,18 @@ namespace ConsoleConverter
                     Console.WriteLine("[MAIN-Value_checker]: Пустая целая часть числа");
                     return false;
                 }
-
+                //Если дробная часть не пустая, то присваиваем её локальной переменной
                 if (!(match.Groups["FracPart"].Length == 0))
                 {
                     this.value.FracPart = match.Groups["FracPart"].Value;
                 }
 
             }
+            //Если не вылетели из цикла, то возвращаем методу истину
             return true;
         }
         public Boolean Base_checker(int Input)
+        //Выполняем проверку основания
         {
             for (int i = 2; i < 17; i++)
             {
@@ -103,6 +116,7 @@ namespace ConsoleConverter
         }
 
         public int Value_checker(String Input)
+        //Выполняем проверку значения числа (дробной или целой части) исходя из набора регулярных выражений, выбор которых зависит от основания, если терпим неудачу, то возвращаем позицию первого неудачного символа.
         {
             Regex Regexp_2 = new Regex("[0-1]");
             Regex Regexp_3 = new Regex("[0-2]");
@@ -282,7 +296,8 @@ namespace ConsoleConverter
             }
         }
         public String CompleteConvert()
-            {
+        //Выполнеям вычисление по переводу из системы p в 10 - ую
+        {
             int i;
             int Def = 0;
             double Result = 0.0;
@@ -304,6 +319,7 @@ namespace ConsoleConverter
             return Result.ToString();
         }
         public int Transfer(String Input)
+        //Функция выполняет согласование символов со значением
         {
             switch (Input)
             {
@@ -338,6 +354,7 @@ namespace ConsoleConverter
             }
         }
         public void Fresh()
+        //Выполнеям очистку локальных переменных.
         {
             this.value.IntPart = "";
             this.value.FracPart = "";
